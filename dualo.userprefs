@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../See Through View/Assets/Script/RotateCamera.cs">
+    <Files>
+      <File FileName="../See Through View/Assets/Script/MakeInstance.cs" Line="12" Column="5" />
+      <File FileName="../See Through View/Assets/Script/RotateCamera.cs" Line="87" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
